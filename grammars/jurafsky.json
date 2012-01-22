@@ -1,0 +1,12 @@
+{
+  "S": [["NP", "VP"], ["Aux", "NP", "VP"], ["VP"]],
+  "NP": [["Det", "Nominal"], ["Proper-Noun"]],
+  "Nominal": [["Noun"], ["Noun", "Nominal"], ["Nominal", "PP"]],
+  "VP": [["Verb"], ["Verb", "NP"]],
+  "Det": [["that"], ["this"], ["a"]],
+  "Noun": [["book"], ["flight"], ["meal"], ["money"]],
+  "Verb": [["book"], ["include"], ["prefer"]],
+  "Aux": [["does"]],
+  "Prep": [["from"], ["to"], ["on"]],
+  "Proper-Noun": [["Houston"], ["TWA"]]
+}

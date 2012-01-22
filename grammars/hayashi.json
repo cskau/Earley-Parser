@@ -1,0 +1,81 @@
+{
+  "S": [
+    ["adv.-led", "adv.-led", "obj.", "præd."],
+    ["adv.-led", "subj.", "obj.", "præd."],
+    ["adv.-led", "subj.", "præd."],
+    ["adv.-led", "præd."],
+    ["cit.-led", "præd."],
+    ["S1", "S2"],
+    ["obj.", "præd."],
+    ["subj.", "præd."],
+    ["subj.", "obj.", "præd."],
+    ["adv.-led", "adv.-led", "præd."]
+  ],
+  "subj.": [
+    ["adled", "kerne"]
+  ],
+  "adv.-led": [
+    ["adj.-na", "p.instr."],
+    ["temp.adv."],
+    ["adled", "kerne"],
+    ["noun", "p.ni"],
+    ["adled", "p.no", "kerne", "p.ni"]
+  ],
+  "obj.": [
+    ["noun", "p.obj."]
+  ],
+  "subj.": [
+    ["noun", "p.subj."],
+    ["adled", "p.no", "kerne", "p.subj."],
+    ["noun", "p.subj."]
+  ],
+  "adj.-na": [
+    ["好き"],
+    ["有名"],
+    ["便利"],
+    ["無人"]
+  ],
+  "adled": [
+    ["noun"]
+  ],
+  "kerne": [
+    ["noun"],
+    ["k1", "k2"]
+  ],
+  "præd.": [
+    ["売る"],
+    ["adj.-na", "kopula"],
+    ["買う"]
+  ],
+  "p.obj.": [
+    ["を"]
+  ],
+  "kopula": [
+    ["です"]
+  ],
+  "p.subj.": [
+    ["は"],
+    ["が"]
+  ],
+  "p.no": [
+    ["の"]
+  ],
+  "p.ni": [
+    ["に"]
+  ],
+  "temp.adv.": [
+    ["２４時間"],
+    ["何時も"]
+  ],
+  "p.instr.": [
+    ["で"]
+  ],
+  "noun": [
+    ["日本"],
+    ["本"],
+    ["ソフトウェア"],
+    ["雑誌"],
+    ["コンビニ"],
+    ["物"]
+  ]
+}
